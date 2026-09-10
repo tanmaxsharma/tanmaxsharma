@@ -1,6 +1,20 @@
-# Tanmay Sharma
+<p align="center">
+  <img
+    src="./assets/hero.svg"
+    alt="Tanmay Sharma - Full-Stack Developer & Product Builder"
+    width="900"
+  />
+</p>
 
-### Full-Stack Developer & Product Builder
+<p align="center">
+  <a href="https://www.tanmaxsharma.in">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/tanmaxsharma">LinkedIn</a>
+  ·
+  <a href="mailto:tanmaysharma.eng05@gmail.com">Email</a>
+</p>
+
+---
 
 I build production-ready web applications, software products, and business platforms.
 
