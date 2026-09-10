@@ -11,16 +11,10 @@
   ·
   <a href="https://www.linkedin.com/in/tanmaxsharma">LinkedIn</a>
   ·
+  <a href="https://github.com/tanmaxsharma">GitHub</a>
+  ·
   <a href="mailto:tanmaysharma.eng05@gmail.com">Email</a>
 </p>
-
----
-
-I build production-ready web applications, software products, and business platforms.
-
-My work spans frontend development, backend systems, APIs, databases, integrations, deployment, and infrastructure.
-
-[Portfolio](https://www.tanmaxsharma.in) · [LinkedIn](https://www.linkedin.com/in/tanmaxsharma) · [GitHub](https://github.com/tanmaxsharma) · [Email](mailto:tanmaysharma.eng05@gmail.com)
 
 ---
 
@@ -28,9 +22,9 @@ My work spans frontend development, backend systems, APIs, databases, integratio
 
 I'm a Full-Stack Developer focused on building practical software for real-world use cases.
 
-I work primarily with React, Next.js, Node.js, TypeScript, REST APIs, databases, and modern deployment workflows.
+I work primarily with React, Next.js, Node.js, TypeScript, REST APIs, databases, integrations, and modern deployment workflows.
 
-I also build and experiment with products independently, which gives me a strong interest in the intersection of software engineering, product development, and business.
+I also build and experiment with products independently, with a strong interest in the intersection of software engineering, product development, and business.
 
 ---
 
@@ -74,7 +68,7 @@ Git · GitHub · Postman · Jira · Figma
 
 ### Vibestore
 
-E-commerce platform focused on a production-oriented shopping experience, product discovery, filtering, integrations, and deployment.
+Production-oriented e-commerce platform focused on shopping experience, product discovery, filtering, integrations, and deployment.
 
 **Stack:** Next.js · React · WooCommerce · REST APIs · Docker
 
