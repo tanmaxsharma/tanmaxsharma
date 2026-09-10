@@ -4,93 +4,45 @@
   viewBox="0 0 900 300"
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
->
+ xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozMzYxYjMwYi03YTZkLTRiOTAtYmEyOC0xOTJkMDI5N2MxZjEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPqIAq4zPFIhpe3d75XRYWYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5OTZkMDY2OS0yYmE1LTRlMDYtOTkwOS0zZGEwNDEyNzg5OWRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoWkHLa0i41LpZjKpu0ZgjfgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggn1ZupZs2bARRk9KS01F+4lm9WQNeZGo32w5SibXuKDakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaM1I9ev2+KcMFkic6cyVqDoAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCD0lQdSAERoN2QpiH/jHmeFw73U6H5P/DU33TiCPz9/b2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBitZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjMzNjFiMzBiLTdhNmQtNGI5MC1iYTI4LTE5MmQwMjk3YzFmMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjJjNWI2ZjQ0LWI1NjMtNGExMi04MDE3LWRlOWQ4Zjg4ODg3MHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCfVm6lmzZsBFGT0pLTUX7iWb1ZA15kajfbDlKJte4oNqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggQxXSY/YdIyGIfK1zVMI94wBq5iqRjATcGGLtwy2R5h+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg61BTXCmYzk7aMVa0eJNDETaEj+E/VR6rjaw2Ia9rsNF0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFJvPRTKcPstFjzYJmvbopI3A5TSPo1GW/o2jXdfwcVr/xibz2oJveL2LCgc25j8RykYq4gXJkMivoCTF49RHeE=</c2pa:manifest></metadata>
 
   <defs>
 
-    <!-- Background -->
-    <linearGradient id="background" x1="0" y1="0" x2="900" y2="300">
+    <linearGradient id="heroBg" x1="0" y1="0" x2="900" y2="300">
       <stop offset="0%" stop-color="#0D1117"/>
       <stop offset="100%" stop-color="#111827"/>
     </linearGradient>
 
-    <!-- Animated border -->
-    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="heroBorder" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#58A6FF">
-        <animate
-          attributeName="stop-color"
-          values="#58A6FF;#A371F7;#58A6FF"
-          dur="6s"
-          repeatCount="indefinite"
-        />
+        <animate attributeName="stop-color" values="#58A6FF;#A371F7;#58A6FF" dur="7s" repeatCount="indefinite"/>
       </stop>
-
       <stop offset="50%" stop-color="#A371F7">
-        <animate
-          attributeName="stop-color"
-          values="#A371F7;#58A6FF;#A371F7"
-          dur="6s"
-          repeatCount="indefinite"
-        />
+        <animate attributeName="stop-color" values="#A371F7;#58A6FF;#A371F7" dur="7s" repeatCount="indefinite"/>
       </stop>
-
       <stop offset="100%" stop-color="#58A6FF">
-        <animate
-          attributeName="stop-color"
-          values="#58A6FF;#A371F7;#58A6FF"
-          dur="6s"
-          repeatCount="indefinite"
-        />
+        <animate attributeName="stop-color" values="#58A6FF;#A371F7;#58A6FF" dur="7s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
-
-    <!-- Name typing mask -->
     <clipPath id="nameClip">
-      <rect x="42" y="75" width="0" height="60">
-        <animate
-          attributeName="width"
-          from="0"
-          to="430"
-          dur="2.2s"
-          begin="0.5s"
-          fill="freeze"
-        />
+      <rect x="42" y="88" width="0" height="46">
+        <animate attributeName="width" from="0" to="420" dur="1.7s" begin="0.5s" fill="freeze"/>
       </rect>
     </clipPath>
 
-
-    <!-- Role typing mask -->
     <clipPath id="roleClip">
-      <rect x="42" y="140" width="0" height="45">
-        <animate
-          attributeName="width"
-          from="0"
-          to="720"
-          dur="3s"
-          begin="3s"
-          fill="freeze"
-        />
+      <rect x="42" y="148" width="0" height="30">
+        <animate attributeName="width" from="0" to="480" dur="1.6s" begin="2.4s" fill="freeze"/>
       </rect>
     </clipPath>
 
-
-    <!-- Tech stack typing mask -->
     <clipPath id="stackClip">
-      <rect x="42" y="195" width="0" height="35">
-        <animate
-          attributeName="width"
-          from="0"
-          to="650"
-          dur="2.5s"
-          begin="6.3s"
-          fill="freeze"
-        />
+      <rect x="42" y="184" width="0" height="26">
+        <animate attributeName="width" from="0" to="400" dur="1.3s" begin="4.2s" fill="freeze"/>
       </rect>
     </clipPath>
 
-
-    <!-- Description fade -->
     <linearGradient id="descriptionGradient" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#8B949E"/>
       <stop offset="100%" stop-color="#C9D1D9"/>
@@ -98,226 +50,65 @@
 
   </defs>
 
+  <!-- Card -->
+  <rect x="2" y="2" width="896" height="296" rx="18" fill="url(#heroBg)" stroke="url(#heroBorder)" stroke-width="2"/>
 
-  <!-- Main card -->
-  <rect
-    x="2"
-    y="2"
-    width="896"
-    height="296"
-    rx="18"
-    fill="url(#background)"
-    stroke="url(#border)"
-    stroke-width="2"
-  />
+  <!-- Header bar -->
+  <path d="M2 46H898" stroke="#21262D" stroke-width="1"/>
 
+  <circle cx="35" cy="23" r="5" fill="#FF5F56"/>
+  <circle cx="52" cy="23" r="5" fill="#FFBD2E"/>
+  <circle cx="69" cy="23" r="5" fill="#27C93F"/>
 
-  <!-- Terminal dots -->
-  <circle cx="35" cy="30" r="5" fill="#FF5F56"/>
-  <circle cx="52" cy="30" r="5" fill="#FFBD2E"/>
-  <circle cx="69" cy="30" r="5" fill="#27C93F"/>
+  <text x="95" y="28" fill="#8B949E" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="500">tanmay@github</text>
+  <text x="200" y="28" fill="#58A6FF" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="600">~</text>
+  <text x="213" y="28" fill="#8B949E" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="500">$</text>
 
-
-  <!-- Terminal path -->
-  <text
-    x="95"
-    y="35"
-    fill="#8B949E"
-    font-family="Poppins, Arial, sans-serif"
-    font-size="14"
-    font-weight="500"
-  >
-    tanmay@github
-  </text>
-
-  <text
-    x="205"
-    y="35"
-    fill="#58A6FF"
-    font-family="Poppins, Arial, sans-serif"
-    font-size="14"
-    font-weight="600"
-  >
-    ~
-  </text>
-
-  <text
-    x="220"
-    y="35"
-    fill="#8B949E"
-    font-family="Poppins, Arial, sans-serif"
-    font-size="14"
-    font-weight="500"
-  >
-    $
-  </text>
-
-
-  <!-- ========================= -->
-  <!-- NAME -->
-  <!-- ========================= -->
-
-  <g clip-path="url(#nameClip)">
-
-    <text
-      x="42"
-      y="120"
-      fill="#FFFFFF"
-      font-family="Poppins, Arial, sans-serif"
-      font-size="42"
-      font-weight="700"
-      letter-spacing="-1"
-    >
-      Tanmay Sharma
-    </text>
-
-  </g>
-
-
-  <!-- Name cursor -->
-  <rect
-    x="42"
-    y="84"
-    width="3"
-    height="42"
-    rx="1"
-    fill="#58A6FF"
-  >
-
-    <animate
-      attributeName="x"
-      from="42"
-      to="345"
-      dur="2.2s"
-      begin="0.5s"
-      fill="freeze"
-    />
-
-    <animate
-      attributeName="opacity"
-      values="1;0;1"
-      dur="0.7s"
-      repeatCount="indefinite"
-    />
-
-  </rect>
-
-
-  <!-- ========================= -->
-  <!-- ROLE -->
-  <!-- ========================= -->
-
-  <g clip-path="url(#roleClip)">
-
-    <text
-      x="42"
-      y="168"
-      fill="#58A6FF"
-      font-family="Poppins, Arial, sans-serif"
-      font-size="23"
-      font-weight="600"
-    >
-      Full-Stack Developer &amp; Product Builder
-    </text>
-
-  </g>
-
-
-  <!-- Role cursor -->
-  <rect
-    x="42"
-    y="143"
-    width="3"
-    height="26"
-    rx="1"
-    fill="#A371F7"
-    opacity="0"
-  >
-
-    <animate
-      attributeName="opacity"
-      values="0;0;1;0"
-      keyTimes="0;0.38;0.4;1"
-      dur="7.5s"
-      repeatCount="indefinite"
-    />
-
-  </rect>
-
-
-  <!-- ========================= -->
-  <!-- TECHNOLOGIES -->
-  <!-- ========================= -->
-
-  <g clip-path="url(#stackClip)">
-
-    <text
-      x="42"
-      y="218"
-      fill="#C9D1D9"
-      font-family="Poppins, Arial, sans-serif"
-      font-size="17"
-      font-weight="500"
-    >
-      React · Next.js · Node.js · TypeScript
-    </text>
-
-  </g>
-
-
-  <!-- ========================= -->
-  <!-- DESCRIPTION -->
-  <!-- ========================= -->
-
-  <text
-    x="42"
-    y="260"
-    fill="url(#descriptionGradient)"
-    font-family="Poppins, Arial, sans-serif"
-    font-size="14"
-    font-weight="400"
-    opacity="0"
-  >
-    Building software for real-world problems.
-
-    <animate
-      attributeName="opacity"
-      from="0"
-      to="1"
-      dur="1s"
-      begin="8.5s"
-      fill="freeze"
-    />
-
-  </text>
-
-
-  <!-- ========================= -->
-  <!-- ONLINE INDICATOR -->
-  <!-- ========================= -->
-
-  <circle
-    cx="850"
-    cy="30"
-    r="5"
-    fill="#3FB950"
-  >
-
-    <animate
-      attributeName="r"
-      values="5;7;5"
-      dur="2s"
-      repeatCount="indefinite"
-    />
-
-    <animate
-      attributeName="opacity"
-      values="1;0.4;1"
-      dur="2s"
-      repeatCount="indefinite"
-    />
-
+  <!-- Status indicator -->
+  <text x="778" y="28" text-anchor="end" fill="#8B949E" font-family="Poppins, Arial, sans-serif" font-size="11" letter-spacing="0.5">AVAILABLE</text>
+  <circle cx="855" cy="23" r="5" fill="#3FB950">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
   </circle>
 
+  <!-- Command prompt -->
+  <text x="42" y="74" font-family="Poppins, Arial, sans-serif" font-size="14">
+    <tspan fill="#58A6FF" font-weight="600">$</tspan>
+    <tspan fill="#8B949E" font-weight="500"> whoami</tspan>
+  </text>
+
+  <!-- Name -->
+  <g clip-path="url(#nameClip)">
+    <text x="42" y="122" fill="#FFFFFF" font-family="Poppins, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-1">Tanmay Sharma</text>
+  </g>
+  <rect x="42" y="90" width="3" height="40" rx="1" fill="#58A6FF">
+    <animate attributeName="x" from="42" to="345" dur="1.7s" begin="0.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Role -->
+  <g clip-path="url(#roleClip)">
+    <text x="42" y="169" fill="#58A6FF" font-family="Poppins, Arial, sans-serif" font-size="21" font-weight="600">Full-Stack Developer &amp; Product Builder</text>
+  </g>
+
+  <!-- Tech stack -->
+  <g clip-path="url(#stackClip)">
+    <text x="42" y="202" fill="#C9D1D9" font-family="Poppins, Arial, sans-serif" font-size="16" font-weight="500">React · Next.js · Node.js · TypeScript</text>
+  </g>
+
+  <!-- Positioning statement -->
+  <text x="42" y="234" fill="url(#descriptionGradient)" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="400" opacity="0">
+    Building practical, production-grade software.
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="5.6s" fill="freeze"/>
+  </text>
+
+  <!-- Idle prompt -->
+  <text x="42" y="272" fill="#8B949E" font-family="Poppins, Arial, sans-serif" font-size="13" font-weight="500" opacity="0">
+    $
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="6.2s" fill="freeze"/>
+  </text>
+  <rect x="58" y="260" width="8" height="15" fill="#58A6FF" opacity="0">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.88;1" dur="0.7s" begin="6.2s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="6.6s" repeatCount="indefinite"/>
+  </rect>
 
 </svg>
