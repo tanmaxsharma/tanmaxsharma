@@ -37,6 +37,36 @@
   </picture>
 </p>
 
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="./assets/contribution-header.svg"
+    alt="Contribution Activity"
+    width="900"
+  />
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/tanmaxsharma/tanmaxsharma/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/tanmaxsharma/tanmaxsharma/output/github-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/tanmaxsharma/tanmaxsharma/output/github-snake.svg"
+      alt="GitHub contribution snake animation"
+      width="900"
+    />
+  </picture>
+</p>
+
 ## About
 
 I'm a Full-Stack Developer focused on building practical software for real-world use cases.
