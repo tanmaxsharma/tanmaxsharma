@@ -1,87 +1,323 @@
-<svg width="900" height="280" viewBox="0 0 900 280"
-     xmlns="http://www.w3.org/2000/svg">
+<svg
+  width="900"
+  height="300"
+  viewBox="0 0 900 300"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
 
   <defs>
+
+    <!-- Background -->
+    <linearGradient id="background" x1="0" y1="0" x2="900" y2="300">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <!-- Animated border -->
     <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58a6ff">
-        <animate attributeName="stop-color"
-                 values="#58a6ff;#a371f7;#58a6ff"
-                 dur="5s"
-                 repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#58A6FF">
+        <animate
+          attributeName="stop-color"
+          values="#58A6FF;#A371F7;#58A6FF"
+          dur="6s"
+          repeatCount="indefinite"
+        />
       </stop>
 
-      <stop offset="100%" stop-color="#a371f7">
-        <animate attributeName="stop-color"
-                 values="#a371f7;#58a6ff;#a371f7"
-                 dur="5s"
-                 repeatCount="indefinite"/>
+      <stop offset="50%" stop-color="#A371F7">
+        <animate
+          attributeName="stop-color"
+          values="#A371F7;#58A6FF;#A371F7"
+          dur="6s"
+          repeatCount="indefinite"
+        />
+      </stop>
+
+      <stop offset="100%" stop-color="#58A6FF">
+        <animate
+          attributeName="stop-color"
+          values="#58A6FF;#A371F7;#58A6FF"
+          dur="6s"
+          repeatCount="indefinite"
+        />
       </stop>
     </linearGradient>
+
+
+    <!-- Name typing mask -->
+    <clipPath id="nameClip">
+      <rect x="42" y="75" width="0" height="60">
+        <animate
+          attributeName="width"
+          from="0"
+          to="430"
+          dur="2.2s"
+          begin="0.5s"
+          fill="freeze"
+        />
+      </rect>
+    </clipPath>
+
+
+    <!-- Role typing mask -->
+    <clipPath id="roleClip">
+      <rect x="42" y="140" width="0" height="45">
+        <animate
+          attributeName="width"
+          from="0"
+          to="720"
+          dur="3s"
+          begin="3s"
+          fill="freeze"
+        />
+      </rect>
+    </clipPath>
+
+
+    <!-- Tech stack typing mask -->
+    <clipPath id="stackClip">
+      <rect x="42" y="195" width="0" height="35">
+        <animate
+          attributeName="width"
+          from="0"
+          to="650"
+          dur="2.5s"
+          begin="6.3s"
+          fill="freeze"
+        />
+      </rect>
+    </clipPath>
+
+
+    <!-- Description fade -->
+    <linearGradient id="descriptionGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B949E"/>
+      <stop offset="100%" stop-color="#C9D1D9"/>
+    </linearGradient>
+
   </defs>
 
+
+  <!-- Main card -->
   <rect
     x="2"
     y="2"
     width="896"
-    height="276"
-    rx="16"
-    fill="#0d1117"
+    height="296"
+    rx="18"
+    fill="url(#background)"
     stroke="url(#border)"
     stroke-width="2"
   />
 
+
+  <!-- Terminal dots -->
+  <circle cx="35" cy="30" r="5" fill="#FF5F56"/>
+  <circle cx="52" cy="30" r="5" fill="#FFBD2E"/>
+  <circle cx="69" cy="30" r="5" fill="#27C93F"/>
+
+
+  <!-- Terminal path -->
   <text
-    x="45"
-    y="65"
-    fill="#8b949e"
-    font-family="monospace"
-    font-size="18">
-    tanmay@github:~$
+    x="95"
+    y="35"
+    fill="#8B949E"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="14"
+    font-weight="500"
+  >
+    tanmay@github
   </text>
 
   <text
-    x="45"
-    y="115"
-    fill="#ffffff"
-    font-family="monospace"
-    font-size="36"
-    font-weight="bold">
-    Tanmay Sharma
+    x="205"
+    y="35"
+    fill="#58A6FF"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="14"
+    font-weight="600"
+  >
+    ~
   </text>
 
   <text
-    x="45"
-    y="155"
-    fill="#58a6ff"
-    font-family="monospace"
-    font-size="21">
-    Full-Stack Developer &amp; Product Builder
+    x="220"
+    y="35"
+    fill="#8B949E"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="14"
+    font-weight="500"
+  >
+    $
   </text>
 
-  <text
-    x="45"
-    y="195"
-    fill="#8b949e"
-    font-family="monospace"
-    font-size="16">
-    React · Next.js · Node.js · TypeScript
-  </text>
 
-  <text
-    x="45"
-    y="230"
-    fill="#8b949e"
-    font-family="monospace"
-    font-size="15">
-    Building software for real-world problems.
-  </text>
+  <!-- ========================= -->
+  <!-- NAME -->
+  <!-- ========================= -->
 
-  <circle cx="840" cy="70" r="6" fill="#3fb950">
+  <g clip-path="url(#nameClip)">
+
+    <text
+      x="42"
+      y="120"
+      fill="#FFFFFF"
+      font-family="Poppins, Arial, sans-serif"
+      font-size="42"
+      font-weight="700"
+      letter-spacing="-1"
+    >
+      Tanmay Sharma
+    </text>
+
+  </g>
+
+
+  <!-- Name cursor -->
+  <rect
+    x="42"
+    y="84"
+    width="3"
+    height="42"
+    rx="1"
+    fill="#58A6FF"
+  >
+
+    <animate
+      attributeName="x"
+      from="42"
+      to="345"
+      dur="2.2s"
+      begin="0.5s"
+      fill="freeze"
+    />
+
     <animate
       attributeName="opacity"
-      values="1;0.3;1"
+      values="1;0;1"
+      dur="0.7s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+
+  <!-- ========================= -->
+  <!-- ROLE -->
+  <!-- ========================= -->
+
+  <g clip-path="url(#roleClip)">
+
+    <text
+      x="42"
+      y="168"
+      fill="#58A6FF"
+      font-family="Poppins, Arial, sans-serif"
+      font-size="23"
+      font-weight="600"
+    >
+      Full-Stack Developer &amp; Product Builder
+    </text>
+
+  </g>
+
+
+  <!-- Role cursor -->
+  <rect
+    x="42"
+    y="143"
+    width="3"
+    height="26"
+    rx="1"
+    fill="#A371F7"
+    opacity="0"
+  >
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;0"
+      keyTimes="0;0.38;0.4;1"
+      dur="7.5s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+
+  <!-- ========================= -->
+  <!-- TECHNOLOGIES -->
+  <!-- ========================= -->
+
+  <g clip-path="url(#stackClip)">
+
+    <text
+      x="42"
+      y="218"
+      fill="#C9D1D9"
+      font-family="Poppins, Arial, sans-serif"
+      font-size="17"
+      font-weight="500"
+    >
+      React · Next.js · Node.js · TypeScript
+    </text>
+
+  </g>
+
+
+  <!-- ========================= -->
+  <!-- DESCRIPTION -->
+  <!-- ========================= -->
+
+  <text
+    x="42"
+    y="260"
+    fill="url(#descriptionGradient)"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="14"
+    font-weight="400"
+    opacity="0"
+  >
+    Building software for real-world problems.
+
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="1s"
+      begin="8.5s"
+      fill="freeze"
+    />
+
+  </text>
+
+
+  <!-- ========================= -->
+  <!-- ONLINE INDICATOR -->
+  <!-- ========================= -->
+
+  <circle
+    cx="850"
+    cy="30"
+    r="5"
+    fill="#3FB950"
+  >
+
+    <animate
+      attributeName="r"
+      values="5;7;5"
       dur="2s"
-      repeatCount="indefinite"/>
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="1;0.4;1"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+
   </circle>
+
 
 </svg>
