@@ -1,153 +1,74 @@
 <p align="center">
-  <img
-    src="./assets/hero.svg"
-    alt="Tanmay Sharma - Full-Stack Developer & Product Builder"
-    width="900"
-  />
+  <img src="./assets/hero.svg" alt="Tanmay Sharma — Full-Stack Developer & Product Builder" width="900" />
 </p>
 
 <p align="center">
-  <a href="https://www.tanmaxsharma.in">Portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/tanmaxsharma">LinkedIn</a>
-  ·
-  <a href="https://github.com/tanmaxsharma">GitHub</a>
-  ·
+  <img src="./assets/profile-card.svg" alt="Tanmay Sharma — Developer Profile Card" width="900" />
+</p>
+
+<p align="center">
+  <a href="https://www.tanmaxsharma.in">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/tanmaxsharma">LinkedIn</a> ·
+  <a href="https://github.com/tanmaxsharma">GitHub</a> ·
   <a href="mailto:tanmaysharma.eng05@gmail.com">Email</a>
 </p>
 
 ---
 
-## Contribution Activity
+### About
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/tanmaxsharma/tanmaxsharma/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/tanmaxsharma/tanmaxsharma/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/tanmaxsharma/tanmaxsharma/output/github-snake.svg"
-    />
-  </picture>
-</p>
+I'm a full-stack developer focused on building practical, production-grade software rather than side-project demos. I work primarily with React, Next.js, Node.js and TypeScript, and I'm equally comfortable across the stack — designing APIs, modeling databases, wiring up third-party integrations, and shipping to production.
 
-## Contribution Activity
+I'm also interested in product and business — currently building at **Gradmarc Adtech LLP**, and independently exploring the intersection of engineering and product decisions.
 
-<p align="center">
-  <img
-    src="./assets/contribution-header.svg"
-    alt="Contribution Activity"
-    width="900"
-  />
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/tanmaxsharma/tanmaxsharma/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/tanmaxsharma/tanmaxsharma/output/github-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/tanmaxsharma/tanmaxsharma/output/github-snake.svg"
-      alt="GitHub contribution snake animation"
-      width="900"
-    />
-  </picture>
-</p>
-
-## About
-
-I'm a Full-Stack Developer focused on building practical software for real-world use cases.
-
-I work primarily with React, Next.js, Node.js, TypeScript, REST APIs, databases, integrations, and modern deployment workflows.
-
-I also build and experiment with products independently, with a strong interest in the intersection of software engineering, product development, and business.
-
----
-
-## What I Build
+### What I Build
 
 - Full-stack web applications
 - E-commerce platforms
 - SaaS and business applications
 - REST APIs and backend services
 - Dashboards and management systems
-- Payment and third-party API integrations
+- Third-party and payment integrations
 - Production deployments and infrastructure
 
----
+### Core Technologies
 
-## Core Technologies
+**Frontend**
+React · Next.js · TypeScript · JavaScript
 
-### Frontend
-
-React · Next.js · TypeScript · JavaScript · HTML · CSS
-
-### Backend
-
+**Backend**
 Node.js · Express.js · REST APIs · GraphQL
 
-### Databases
-
+**Databases**
 PostgreSQL · MongoDB · MySQL
 
-### DevOps & Infrastructure
-
+**DevOps**
 Docker · Nginx · GitHub Actions · AWS · Vercel
 
-### Tools
-
+**Tools**
 Git · GitHub · Postman · Jira · Figma
 
----
+### Selected Projects
 
-## Selected Projects
+**Vibestore**
+Production-oriented e-commerce platform focused on shopping experience, product discovery, filtering, and deployment.
+`Next.js` · `React` · `WooCommerce` · `REST APIs` · `Docker`
 
-### Vibestore
+**TubeScript**
+Full-stack web application built with a separate frontend and backend architecture.
+`React` · `Node.js` · `REST APIs`
 
-Production-oriented e-commerce platform focused on shopping experience, product discovery, filtering, integrations, and deployment.
+**Video Conferencing**
+Web-based application for real-time video communication.
+`JavaScript` · `Web APIs`
 
-**Stack:** Next.js · React · WooCommerce · REST APIs · Docker
+**Project Management**
+Application for managing projects and team workflows.
+`JavaScript` · `CSS`
 
----
+More on [github.com/tanmaxsharma](https://github.com/tanmaxsharma).
 
-### TubeScript
-
-Full-stack web application with separate frontend and backend architecture.
-
-**Stack:** React · Node.js · REST APIs
-
----
-
-### Video Conferencing
-
-Web-based video conferencing application focused on real-time communication and application architecture.
-
-**Stack:** JavaScript · Web APIs
-
----
-
-### Project Management
-
-Web application for managing projects and related workflows.
-
-**Stack:** JavaScript · CSS
-
----
-
-## Engineering Focus
+### Engineering Focus
 
 ```text
 Frontend Architecture
@@ -161,3 +82,32 @@ Third-Party Integrations
 Deployment & Infrastructure
         ↓
 Production Software
+```
+
+---
+
+### Contribution Activity
+
+<p align="center">
+  <img src="./assets/contribution-header.svg" alt="Contribution Activity" width="900" />
+</p>
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanmaxsharma/tanmaxsharma/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanmaxsharma/tanmaxsharma/output/github-snake.svg" />
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tanmaxsharma/tanmaxsharma/output/github-snake.svg" width="900" />
+</picture>
+</p>
+
+### Currently Exploring
+
+- Deeper infrastructure and deployment automation
+- Scaling product-engineering practices as projects grow
+- Applied AI in everyday product workflows
+
+### Let's Connect
+
+I'm open to interesting product and engineering work.
+
+📧 [tanmaysharma.eng05@gmail.com](mailto:tanmaysharma.eng05@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/tanmaxsharma) · 🌐 [tanmaxsharma.in](https://www.tanmaxsharma.in)
