@@ -1,0 +1,387 @@
+<svg
+  width="900"
+  height="280"
+  viewBox="0 0 900 280"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="cardBg" x1="0" y1="0" x2="900" y2="280">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+
+    <!-- Border -->
+    <linearGradient id="cardBorder" x1="0" y1="0" x2="900" y2="0">
+      <stop offset="0%" stop-color="#30363D"/>
+
+      <stop offset="50%" stop-color="#58A6FF">
+        <animate
+          attributeName="stop-color"
+          values="#58A6FF;#A371F7;#58A6FF"
+          dur="7s"
+          repeatCount="indefinite"
+        />
+      </stop>
+
+      <stop offset="100%" stop-color="#30363D"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Status glow -->
+    <filter id="statusGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+
+  <!-- Main card -->
+  <rect
+    x="2"
+    y="2"
+    width="896"
+    height="276"
+    rx="18"
+    fill="url(#cardBg)"
+    stroke="url(#cardBorder)"
+    stroke-width="2"
+  />
+
+
+  <!-- Background glow -->
+  <ellipse
+    cx="760"
+    cy="100"
+    rx="220"
+    ry="180"
+    fill="url(#glow)"
+  />
+
+
+  <!-- Terminal header -->
+  <rect
+    x="2"
+    y="2"
+    width="896"
+    height="48"
+    rx="18"
+    fill="#161B22"
+  />
+
+  <path
+    d="M2 50H898"
+    stroke="#30363D"
+    stroke-width="1"
+  />
+
+
+  <!-- Terminal dots -->
+  <circle cx="28" cy="25" r="5" fill="#FF5F56"/>
+  <circle cx="45" cy="25" r="5" fill="#FFBD2E"/>
+  <circle cx="62" cy="25" r="5" fill="#27C93F"/>
+
+
+  <!-- Terminal title -->
+  <text
+    x="82"
+    y="30"
+    fill="#8B949E"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="13"
+    font-weight="500"
+  >
+    tanmay@github:~
+  </text>
+
+
+  <!-- Command -->
+  <text
+    x="720"
+    y="30"
+    fill="#58A6FF"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+    font-weight="500"
+  >
+    ./profile
+  </text>
+
+
+  <!-- LEFT SIDE -->
+
+  <text
+    x="38"
+    y="84"
+    fill="#58A6FF"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="13"
+    font-weight="600"
+  >
+    developer.profile
+  </text>
+
+
+  <text
+    x="38"
+    y="112"
+    fill="#FFFFFF"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="22"
+    font-weight="700"
+  >
+    Tanmay Sharma
+  </text>
+
+
+  <text
+    x="38"
+    y="137"
+    fill="#8B949E"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="14"
+    font-weight="500"
+  >
+    Full-Stack Developer &amp; Product Builder
+  </text>
+
+
+  <!-- Divider -->
+  <path
+    d="M38 154H535"
+    stroke="#30363D"
+    stroke-width="1"
+  />
+
+
+  <!-- Stats -->
+
+  <text
+    x="38"
+    y="181"
+    fill="#8B949E"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    FOCUS
+  </text>
+
+  <text
+    x="38"
+    y="204"
+    fill="#C9D1D9"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="14"
+    font-weight="600"
+  >
+    Product Engineering
+  </text>
+
+
+  <text
+    x="250"
+    y="181"
+    fill="#8B949E"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    STACK
+  </text>
+
+  <text
+    x="250"
+    y="204"
+    fill="#C9D1D9"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="14"
+    font-weight="600"
+  >
+    React · Next · Node
+  </text>
+
+
+  <text
+    x="440"
+    y="181"
+    fill="#8B949E"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    LOCATION
+  </text>
+
+  <text
+    x="440"
+    y="204"
+    fill="#C9D1D9"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="14"
+    font-weight="600"
+  >
+    India
+  </text>
+
+
+  <!-- RIGHT SIDE -->
+
+  <rect
+    x="600"
+    y="77"
+    width="260"
+    height="145"
+    rx="12"
+    fill="#0D1117"
+    stroke="#30363D"
+    stroke-width="1"
+  />
+
+
+  <!-- Code lines -->
+
+  <text
+    x="620"
+    y="103"
+    fill="#8B949E"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    const
+  </text>
+
+  <text
+    x="658"
+    y="103"
+    fill="#A371F7"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    developer
+  </text>
+
+  <text
+    x="735"
+    y="103"
+    fill="#8B949E"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    =
+  </text>
+
+
+  <text
+    x="620"
+    y="127"
+    fill="#79C0FF"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    {
+  </text>
+
+  <text
+    x="636"
+    y="151"
+    fill="#8B949E"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    building:
+  </text>
+
+  <text
+    x="700"
+    y="151"
+    fill="#7EE787"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    "products"
+  </text>
+
+  <text
+    x="636"
+    y="175"
+    fill="#8B949E"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    learning:
+  </text>
+
+  <text
+    x="700"
+    y="175"
+    fill="#7EE787"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    "always"
+  </text>
+
+  <text
+    x="620"
+    y="199"
+    fill="#79C0FF"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    }
+  </text>
+
+
+  <!-- Bottom status -->
+
+  <circle
+    cx="42"
+    cy="245"
+    r="5"
+    fill="#3FB950"
+    filter="url(#statusGlow)"
+  >
+    <animate
+      attributeName="opacity"
+      values="1;0.45;1"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <text
+    x="56"
+    y="249"
+    fill="#8B949E"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+  >
+    Available for interesting projects
+  </text>
+
+
+  <!-- GitHub username -->
+
+  <text
+    x="730"
+    y="249"
+    fill="#58A6FF"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="12"
+    font-weight="600"
+  >
+    @tanmaxsharma
+  </text>
+
+</svg>
