@@ -180,17 +180,19 @@
 
 ---
 
+
 <!-- GITHUB ANALYTICS -->
 
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.demolab.com/?user=tanmaxsharma&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=900"
+    src="https://streak-stats.demolab.com/?user=tanmaxsharma&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=900"
     width="100%"
-    alt="GitHub Contribution Streak"
+    alt="Tanmay Sharma GitHub Contribution Streak"
   />
 </p>
+
 
 <!-- SELF-HOSTED GITHUB STATS
      Enable after completing Vercel deployment.
