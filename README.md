@@ -123,7 +123,10 @@
 <h3 align="center">AI & Automation</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,n8n" alt="AI and Automation Tools"/>
+  <img
+    src="https://skillicons.dev/icons?i=python,n8n"
+    alt="Python and n8n"
+  />
 </p>
 
 <br/>
@@ -180,7 +183,6 @@
 
 ---
 
-
 <!-- GITHUB ANALYTICS -->
 
 <h2 align="center">GitHub Analytics</h2>
@@ -192,7 +194,6 @@
     alt="Tanmay Sharma GitHub Contribution Streak"
   />
 </p>
-
 
 <!-- SELF-HOSTED GITHUB STATS
      Enable after completing Vercel deployment.
