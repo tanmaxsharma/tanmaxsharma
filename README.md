@@ -125,16 +125,17 @@
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=python"
-    height="55"
+    height="48"
     alt="Python"
   />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img
     src="https://cdn.simpleicons.org/n8n/EA4B71"
-    height="55"
+    height="48"
     alt="n8n"
   />
 </p>
+
 
 
 <br/>
