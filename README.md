@@ -86,7 +86,7 @@
 
 ---
 
-<!-- TECHNOLOGY STACK -->
+<!-- TECH STACK -->
 
 <h2 align="center">Technology Stack</h2>
 
